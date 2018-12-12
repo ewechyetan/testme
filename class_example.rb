@@ -4,6 +4,7 @@ class MyClass
   @@name = "Steve"
   $variable_name = 'What'
   puts FACEBOOK
+  
 end
 
 
