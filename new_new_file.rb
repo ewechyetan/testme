@@ -1,3 +1,4 @@
 puts 'hello'
 puts 'whatever'
-pluts "steve"
+puts "steve"
+puts "more changes" 
